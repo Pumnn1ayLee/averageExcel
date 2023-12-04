@@ -5,4 +5,4 @@
 
 ![1](https://github.com/Pumnn1ayLee/averageExcel/blob/main/images/1.png)
 
-![2](https://github.com/Pumnn1ayLee/averageExcel/blob/main/images/2.png}
+![2](https://github.com/Pumnn1ayLee/averageExcel/blob/main/images/2.png)
